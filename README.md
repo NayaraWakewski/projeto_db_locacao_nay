@@ -28,8 +28,11 @@ Na modelagem utilizamos:
 -**Unique Rows:** A etapa "Unique Rows" é usada para eliminar registros duplicados de um conjunto de dados. Ela garante que apenas uma instância de cada combinação única de valores nas colunas selecionadas seja mantida, reduzindo redundâncias nos dados.
 
 -**Table Output:** A etapa "Table Output" é usada para enviar os resultados do fluxo de trabalho do Pentaho para uma tabela de banco de dados. Isso permite que os dados transformados ou processados sejam inseridos, atualizados ou substituídos em uma tabela específica do banco de dados. Nesse projeto inserimos as tabelas em um banco de dados dimensional no Postgres.
-   
-3. **Insights**: Nessa etapa usamos o POWERBI para apresentar alguns insights das locações, clientes e vendedores.
+
+
+## 🚀 INSIGHTS
+
+> Nessa etapa usamos o POWERBI para apresentar alguns insights das locações, clientes e vendedores.
 
 -**Total de Locações por Cidade Cliente**.
 
@@ -77,7 +80,10 @@ Na modelagem utilizamos:
 
 -**Filtros por Cliente**.
 
->**Resultado de Algumas Análises**
+
+
+## 🚀 **Resultado de Algumas Análises**
+
 
 -Rio Branco é a Cidade com Menor Faturamento.
 
@@ -90,6 +96,7 @@ Na modelagem utilizamos:
 -Vendedor Dezesseis é o que tem o maior número de vendas.
 
 -Ano de 2019 e 2021 não teve faturamento ou não teve a coleta correta dos dados.
+
 
 > **Para visualizar o dashboard do projeto, acessar o link abaixo:**
 
