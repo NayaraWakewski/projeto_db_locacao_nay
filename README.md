@@ -100,7 +100,7 @@ Na modelagem utilizamos:
 
 > **Para visualizar o dashboard do projeto, acessar o link abaixo:**
 
-https://app.powerbi.com/groups/me/reports/311790e2-7351-47ca-83e0-f09ae5b14c1e?ctid=bd1c1e03-5603-4537-8869-d9dd2c4b2762&pbi_source=linkShare
+[https://app.powerbi.com/groups/me/reports/311790e2-7351-47ca-83e0-f09ae5b14c1e?ctid=bd1c1e03-5603-4537-8869-d9dd2c4b2762&pbi_source=linkShare](https://app.powerbi.com/view?r=eyJrIjoiYjUwOGQ0MzctYTI0My00MjU5LWI2M2EtOTQwOGFjM2IwM2NiIiwidCI6ImJkMWMxZTAzLTU2MDMtNDUzNy04ODY5LWQ5ZGQyYzRiMjc2MiJ9)
 
 
 ## ⚙️ Arquivos no Repositório:
