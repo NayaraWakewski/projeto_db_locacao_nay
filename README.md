@@ -1,4 +1,6 @@
-![texto alt](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
+<!-- Imagem redimensionada -->
+<img src="https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp" alt="texto alt" width="300">
+
 
 
 # Projeto: Criando um Banco de Locação de Veículos com PostgreSQL - Usando o PENTAHO
